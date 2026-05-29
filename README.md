@@ -16,7 +16,7 @@
 
 ## Summary
 
-Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing to frontend architecture, backend APIs, cloud infrastructure, and GenAI-assisted workflow systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, agri-tech SaaS, and mobile-first applications.
+Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing across frontend architecture, backend APIs, cloud infrastructure, data workflows, and GenAI-assisted systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, agri-tech SaaS, and mobile-first applications.
 
 ---
 
@@ -24,7 +24,7 @@ Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experi
 
 | **6+** | **1M+** | **50+** | **5** |
 |:---:|:---:|:---:|:---:|
-| Years of Experience | Users Impacted | Releases Shipped | Production Stacks |
+| Years of Experience | Users Impacted | Features / Releases | Core Engineering Areas |
 
 ---
 
@@ -142,9 +142,9 @@ AWS-backed deployments, containerized services, CI/CD workflows, and GenAI-assis
 
 <p><sub>Deloitte &nbsp;·&nbsp; 2025 – Present &nbsp;·&nbsp; Full-Stack + GenAI</sub></p>
 
-Contributing across frontend, backend, and cloud for a large-scale public-sector case-management platform. Built React and PrimeReact interfaces, worked across Spring Boot APIs, caching, messaging, and observability layers, and integrated AWS Bedrock-powered workflows for structured output generation and policy-aligned validation.
+Contributing across frontend, backend, cloud, and data layers for a large-scale public-sector case-management platform. Built React and PrimeReact interfaces, worked across Spring Boot APIs, PostgreSQL and Oracle-backed data workflows, caching, messaging, and observability layers, and integrated AWS Bedrock-powered workflows for structured output generation and policy-aligned validation.
 
-<p><b>Engineering focus:</b> frontend architecture &nbsp;·&nbsp; full-stack delivery &nbsp;·&nbsp; event-driven services &nbsp;·&nbsp; GenAI workflows &nbsp;·&nbsp; observability</p>
+<p><b>Engineering focus:</b> frontend architecture &nbsp;·&nbsp; full-stack delivery &nbsp;·&nbsp; data workflows &nbsp;·&nbsp; GenAI workflows &nbsp;·&nbsp; observability</p>
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
