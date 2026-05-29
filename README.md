@@ -24,7 +24,7 @@ Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experi
 
 | **6+** | **1M+** | **50+** | **5** |
 |:---:|:---:|:---:|:---:|
-| Years of Experience | Users Impacted | Releases Shipped | Core Engineering Areas |
+| Years of Experience | Users Impacted | Releases Shipped | Production Stacks |
 
 ---
 
