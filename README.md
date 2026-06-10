@@ -16,7 +16,7 @@
 
 ## Summary
 
-Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing across frontend architecture, backend APIs, cloud infrastructure, data workflows, and GenAI-assisted systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, agri-tech SaaS, and mobile-first applications.
+Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing across frontend architecture, backend APIs, cloud infrastructure, data workflows, and GenAI-assisted systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, enterprise SaaS, and mobile-first applications.
 
 ---
 
@@ -24,7 +24,7 @@ Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experi
 
 | **6+** | **1M+** | **50+** | **5** |
 |:---:|:---:|:---:|:---:|
-| Years of Experience | Users Impacted | Features / Releases | Core Engineering Areas |
+| Years of Experience | Users Impacted | Releases Shipped | Production Stacks |
 
 ---
 
@@ -132,98 +132,6 @@ AWS-backed deployments, containerized services, CI/CD workflows, and GenAI-assis
 
 ---
 
-## Engineering Work
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🏛️ Public-Sector Benefits Platform + GenAI
-
-<p><sub>Deloitte &nbsp;·&nbsp; 2025 – Present &nbsp;·&nbsp; Full-Stack + GenAI</sub></p>
-
-Contributing across frontend, backend, cloud, and data layers for a large-scale public-sector case-management platform. Built React and PrimeReact interfaces, worked across Spring Boot APIs, PostgreSQL and Oracle-backed data workflows, caching, messaging, and observability layers, and integrated AWS Bedrock-powered workflows for structured output generation and policy-aligned validation.
-
-<p><b>Engineering focus:</b> frontend architecture &nbsp;·&nbsp; full-stack delivery &nbsp;·&nbsp; data workflows &nbsp;·&nbsp; GenAI workflows &nbsp;·&nbsp; observability</p>
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Bedrock" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
-<img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-#### 🌱 SmartAgro Agricultural CRM
-
-<p><sub>PurpleTalk &nbsp;·&nbsp; 2021 – 2023 &nbsp;·&nbsp; Mobile + Full-Stack</sub></p>
-
-Built React Native mobile experiences and React-based operational interfaces for agricultural field teams and enterprise users. Implemented offline-first data sync, geospatial workflows, authentication flows, and backend API integrations across mobile and web surfaces.
-
-<p><b>Engineering focus:</b> cross-platform mobile &nbsp;·&nbsp; offline sync &nbsp;·&nbsp; geospatial features &nbsp;·&nbsp; API integration &nbsp;·&nbsp; auth flows</p>
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🔍 Counterfeit Detection System
-
-<p><sub>PurpleTalk &nbsp;·&nbsp; 2020 – 2021 &nbsp;·&nbsp; Mobile + Backend</sub></p>
-
-Built a product authentication workflow integrating barcode and QR scanning SDKs with React, React Native, and backend verification APIs. Packaged the React experience for embedded mobile use cases with bidirectional native communication, offline result caching, and structured verification flows.
-
-<p><b>Engineering focus:</b> React Native &nbsp;·&nbsp; scanning SDK integration &nbsp;·&nbsp; native communication &nbsp;·&nbsp; offline caching &nbsp;·&nbsp; verification flows</p>
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-#### 💪 Maco · Fitness and Social Platform
-
-<p><sub>PurpleTalk &nbsp;·&nbsp; 2019 – 2020 &nbsp;·&nbsp; Mobile</sub></p>
-
-Developed a fitness tracking and social platform for iOS and Android using React Native with Hermes engine and native module integrations for hardware sensor access. Built workout logging, progress analytics, and a social feed with real-time updates.
-
-<p><b>Engineering focus:</b> React Native &nbsp;·&nbsp; Hermes engine &nbsp;·&nbsp; native modules &nbsp;·&nbsp; real-time feeds &nbsp;·&nbsp; sensor integration</p>
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ## Personal Projects
 
 <table>
@@ -263,6 +171,40 @@ Full-stack medication inventory platform built with React 18, Node.js, Express, 
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🛒 ShopIt · E-Commerce Application
+
+Full-stack e-commerce web app for daily essentials across multiple retail categories. Modular React components for product grids, dynamic filters, and cart state. Real-time Firestore for atomized cart updates and inventory, Firebase Authentication for secure user profiles, deployed on Firebase Hosting.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white" alt="Firestore" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team-js-pt/ShopIt)
+
+</td>
+<td valign="top" width="50%">
+
+#### 💳 MRR Vision · Fintech Banking App
+
+Flutter fintech app for personal banking and payment management. Users can link external bank accounts and cards, initiate fund transfers, and view detailed transaction history with merchant-level breakdowns. AWS Cognito handles auth with token expiry guards on every protected route.
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cognito" />
+<img src="https://img.shields.io/badge/AWS_API_Gateway-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS API Gateway" />
+</p>
+
+<sub>Private repository</sub>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -298,4 +240,3 @@ Full-stack medication inventory platform built with React 18, Node.js, Express, 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" />
-`
