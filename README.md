@@ -7,9 +7,9 @@
 
 [![Email](https://img.shields.io/badge/Email-pavanikandi9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanikandi9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavanik9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavanik9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pavanikandi.github.io-c8a86b?style=for-the-badge&logo=githubpages&logoColor=white)](https://pavanikandi.github.io)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-pavanikandi.github.io-c8a86b?style=for-the-badge&logo=githubpages&logoColor=white)](https://pavanikandi.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-PavaniKandi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavaniKandi)
-
+-->
 </div>
 
 ---
@@ -236,8 +236,8 @@ Flutter fintech app for personal banking and payment management. Users can link 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanikandi9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavanik9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c8a86b?style=for-the-badge&logo=githubpages&logoColor=white)](https://pavanikandi.github.io)
-
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-c8a86b?style=for-the-badge&logo=githubpages&logoColor=white)](https://pavanikandi.github.io)
+-->
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" />
