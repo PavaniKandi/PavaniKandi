@@ -213,8 +213,9 @@ Flutter fintech app for personal banking and payment management. Users can link 
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software Developer | Deloitte | Mar 2025 – Present |
-| Associate Analyst | PurpleTalk | Sep 2020 – Jul 2023 |
+| Senior Software Engineer | Deloitte | Mar 2025 – Present |
+| Senior Software Engineer | PurpleTalk | Aug 2021 – Jul 2023 |
+| Software Engineer | PurpleTalk | Sep 2020 - Jul 2021 |
 | Software Intern | PurpleTalk | Dec 2018 – Aug 2020 |
 
 ---
