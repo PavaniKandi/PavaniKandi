@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=header&text=Pavani%20Kandi&fontSize=42&fontColor=c8a86b&fontAlignY=55&animation=fadeIn" />
 
 <div align="center">
-<h2>Senior Frontend Engineer &nbsp;·&nbsp; Full-Stack Product Engineer</h2>
-<p><sub>React · React Native · TypeScript · Spring Boot · Node.js · AWS · GenAI</sub></p>
+<h2>Senior Software Engineer</h2>
+<p><sub>React · React Native · TypeScript · Java · Spring Boot · Node.js · AWS · GenAI</sub></p>
 <br />
 
 [![Email](https://img.shields.io/badge/Email-pavanikandi9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanikandi9@gmail.com)
@@ -16,7 +16,7 @@
 
 ## Summary
 
-Senior Frontend Engineer and Full-Stack Product Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing across frontend architecture, backend APIs, cloud infrastructure, data workflows, and GenAI-assisted systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, enterprise SaaS, and mobile-first applications.
+Senior Software Engineer with 6+ years of experience building production-grade web and mobile applications across React, React Native, TypeScript, Spring Boot, Node.js, and AWS. Currently at Deloitte, contributing across frontend architecture, backend APIs, cloud infrastructure, data workflows, and GenAI-assisted systems. Strong track record delivering performant, accessible, and reliable product experiences across public-sector platforms, enterprise SaaS, and mobile-first applications.
 
 ---
 
